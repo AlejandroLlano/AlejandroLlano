@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejandroLlano
+- 👋 Hi, I’m Alejandro López
 - 👀 I’m interested in learning web fundamentals using JavaScript and using React and ReactNative to later learn more about processes and development natively in mobile development.
 - 🌱 I’m currently learning more advanced information on topics like Git, SQL, NoSQL and soon JavaScript and TypeScript.
 <!---
